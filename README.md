@@ -2,7 +2,7 @@
 
 ### 총 900마리의 포켓몬 도감
 
-
+[포켓몬 도감 바로가기](https://newbean0312.github.io/pokemon-dex/)
 
 
 
