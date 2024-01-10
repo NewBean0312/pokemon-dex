@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-todo-list-v2-website/static/css/main.0e11ab69.css",
-    "main.js": "/react-todo-list-v2-website/static/js/main.a4c4b8f7.js",
-    "index.html": "/react-todo-list-v2-website/index.html",
-    "main.0e11ab69.css.map": "/react-todo-list-v2-website/static/css/main.0e11ab69.css.map",
-    "main.a4c4b8f7.js.map": "/react-todo-list-v2-website/static/js/main.a4c4b8f7.js.map"
+    "main.css": "/pokemon-dex/static/css/main.76a85d18.css",
+    "main.js": "/pokemon-dex/static/js/main.179e315f.js",
+    "index.html": "/pokemon-dex/index.html",
+    "main.76a85d18.css.map": "/pokemon-dex/static/css/main.76a85d18.css.map",
+    "main.179e315f.js.map": "/pokemon-dex/static/js/main.179e315f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e11ab69.css",
-    "static/js/main.a4c4b8f7.js"
+    "static/css/main.76a85d18.css",
+    "static/js/main.179e315f.js"
   ]
 }
